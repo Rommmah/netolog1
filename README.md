@@ -1,10 +1,3 @@
-# Some header
-
-some paragraph
-
-***
-
-	<p> this is code </p>
 
 # NeuroStartUp
 
@@ -17,3 +10,11 @@ some paragraph
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
+# Some header
+
+some paragraph
+
+***
+
+	<p> this is code </p>
